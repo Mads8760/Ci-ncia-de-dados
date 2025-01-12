@@ -1,2 +1,2 @@
-# Ci-ncia-de-dados
+# Ciência de dados
 Estudos em ciência de dados.
